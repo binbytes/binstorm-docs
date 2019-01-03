@@ -1,0 +1,11 @@
+{
+  "name": "BinStorm-Docs",
+  "description": "Documentation for BinStorm utility.",
+  "dependencies": {
+    "vuepress": "^0.14"
+  },
+  "scripts": {
+    "build:docs": "vuepress build docs",
+    "dev:docs": "vuepress dev docs"
+  }
+}
