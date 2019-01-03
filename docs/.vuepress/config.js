@@ -15,7 +15,14 @@ module.exports = {
         href: 'https://fonts.googleapis.com/css?family=Nunito:100,300,400,500,600,700',
         rel: 'stylesheet',
         type: 'text/css',
-      },
+      }
+    ],
+    [
+      'link',
+      {
+        rel: 'icon', 
+        href: '/assets/images/logo.png'
+      }
     ],
     [
       'script',
