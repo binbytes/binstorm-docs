@@ -9,13 +9,13 @@ footer: MIT Licensed | Powered by BinBytes
 - Install the package via `npm`.
 
 ```bash
-npm install -g BinStorm
+npm install -g binstorm
 ```
 
 - Initilize via `init` command.
 
 ```bash
-BinStorm init
+binstorm init
 ```
 
 - Import `apply` method from generated `styles` file.

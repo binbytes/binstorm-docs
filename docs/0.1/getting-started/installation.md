@@ -5,10 +5,10 @@ BinStorm available on npm and can be installed using npm
 
 ```bash
 # globle install (recommanded)
-npm install -g BinStorm
+npm install -g binstorm
 
 # local install
-npm install --save BinStorm
+npm install --save binstorm
 ```
 
 ## 2. Create BinStorm config and style file
