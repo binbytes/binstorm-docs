@@ -29,7 +29,7 @@ module.exports = [
     title: 'Typography',
     collapsable: false,
     children: prefix('typography', [
-        'color',
+        'text-color',
         'font-size',
         'font-weight',
         'letter-spacing',
