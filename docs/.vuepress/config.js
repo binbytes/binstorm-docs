@@ -36,6 +36,7 @@ module.exports = {
     logo: '/assets/images/logo.svg',
     repo: 'binbytes/binstorm',
     docsRepo: 'binbytes/binstorm-docs',
+    docsDir: 'docs',
     docsBranch: 'master',
     editLinks: true,
     editLinkText: 'Help us improve this page!',
@@ -60,7 +61,7 @@ module.exports = {
       }
     ],
     sidebar: {
-        '/0.1/': require('./0.1')
+      '/0.1/': require('./0.1')
     },
   },
 };
