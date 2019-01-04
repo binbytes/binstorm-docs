@@ -11,9 +11,9 @@ module.exports = [
       collapsable: false,
       children: prefix('getting-started', [
           'installation',
-          'configuration',
-          'watchman',
+          'how-to-run',
           'how-to-use',
+          'configuration',
           'adding-custom-module',
       ]),
   },

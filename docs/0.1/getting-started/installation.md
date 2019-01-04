@@ -17,10 +17,10 @@ We provide CLI to make easy to configure BinStorm in your project.
 
 ```bash
 # If you installed it globally
-BinStorm init
+binstorm init
 
 # If you installed it locally
-./node_modules/.bin/BinStorm init
+./node_modules/.bin/binstorm init
 ```
 
 

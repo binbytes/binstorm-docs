@@ -1,4 +1,4 @@
-# How to use
+# How to Use
 
 ### How to apply for Inline style in React Component
 
