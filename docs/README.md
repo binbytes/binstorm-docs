@@ -27,7 +27,7 @@ import { apply } from './theme/styles.js'
     //....
     <View style={apply('bg-grey border rounded-full')}>
         <Text style={apply('text-black text-sm font-bold')}>
-        Hello World
+            Hello World
         </Text>
     </View>
     //...
