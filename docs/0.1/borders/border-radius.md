@@ -1,5 +1,8 @@
 # Border Radius
 ### Utilities for controlling the border radius of an element.
+
+<div class="table-container">
+
 |Class|Properties|
 |-|-|
 | rounded-none |  borderRadius: 0  |
@@ -48,6 +51,7 @@
 | rounded-bl-full |  borderBottomLeftRadius: 300  |
 | rounded-br-full |  borderBottomRightRadius: 300 |
 
+</div>
 
 ### Usage
 Use the .rounded-sm, .rounded, or .rounded-lg utilities to apply different border radius sizes to an element.

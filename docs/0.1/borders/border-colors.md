@@ -1,6 +1,8 @@
 # Border Color
 ### Utilities for controlling the color of an element's borders.
 
+<div class="table-container">
+
 |Class|Properties||
 |-|-|-|
 |border-transparent| color: 'transparent' | <div class="preview-border border-transparent"></div>
@@ -77,6 +79,7 @@
 |border-pink-lighter| color: '#ffbbca' | <div class="preview-border border-pink-lighter"></div>
 |border-pink-lightest| color: '#ffebef' | <div class="preview-border border-pink-lightest"></div>
 
+</div>
 
 ### Usage
 Control the border color of an element using the `border-{color}` utilities.

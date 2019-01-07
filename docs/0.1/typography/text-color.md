@@ -1,6 +1,8 @@
 # Text Color
 ### Utilities for controlling the text color.
 
+<div class="table-container">
+
 |Class|Properties||
 |-|-|-|
 |text-transparent| color: 'transparent' | <span class="text-transparent">Aa</span>
@@ -76,6 +78,8 @@
 |text-pink-light| color: '#fa7ea8' | <span class="text-pink-light">Aa</span>
 |text-pink-lighter| color: '#ffbbca' | <span class="text-pink-lighter">Aa</span>
 |text-pink-lightest| color: '#ffebef' | <span class="text-pink-lightest">Aa</span>
+
+</div>
 
 ### Usage
 Control the text color of an element using the `text-{color}` utilities.

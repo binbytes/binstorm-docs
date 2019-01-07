@@ -1,6 +1,8 @@
 # Height
 ### Utilities for setting the height of an element
 
+<div class="table-container">
+
 |Class|Property|
 |-|-|
 | h-1 |  height: 4  | 
@@ -30,6 +32,8 @@
 | h-1/6 |  height: '16.66667%'  | 
 | h-5/6 |  height: '83.33333%'  | 
 | h-full |  height: '100%'  | 
+
+</div>
 
 ### Customizing
 By default BinStorm provides 15 fixed height utilities & 12 percentage-based utilities. You change, add, or remove these by editing the height section of your BinStorm config.

@@ -1,6 +1,8 @@
 # Background Color
 ### Utilities for controlling an element's background color.
 
+<div class="table-container">
+
 |Class|Properties||
 |-|-|-|
 |bg-transparent| color: 'transparent' | <div class="preview-box bg-transparent"></div>
@@ -76,6 +78,8 @@
 |bg-pink-light| color: '#fa7ea8' | <div class="preview-box bg-pink-light"></div>
 |bg-pink-lighter| color: '#ffbbca' | <div class="preview-box bg-pink-lighter"></div>
 |bg-pink-lightest| color: '#ffebef' | <div class="preview-box bg-pink-lightest"></div>
+
+</div>
 
 ### Usage
 Control the background color of an element using the `bg-{color}` utilities.

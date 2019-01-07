@@ -1,6 +1,8 @@
 # Width
 ### Utilities for setting the width of an element
 
+<div class="table-container">
+
 |Class|Property|
 |-|-|
 | w-1 |  width: 4  | 
@@ -30,6 +32,8 @@
 | w-1/6 |  width: '16.66667%'  | 
 | w-5/6 |  width: '83.33333%'  | 
 | w-full |  width: '100%'  | 
+
+</div>
 
 ### Customizing
 By default BinStorm provides 15 fixed width utilities & 12 percentage-based utilities. You change, add, or remove these by editing the width section of your BinStorm config.
