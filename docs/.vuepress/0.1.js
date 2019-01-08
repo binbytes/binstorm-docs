@@ -94,6 +94,16 @@ module.exports = [
     children: prefix('miscellaneous', [
         'opacity'
     ]),
+  },
+  {
+    title: 'Examples',
+    collapsable: false,
+    children: prefix('examples', [
+        'buttons',
+        'card',
+        'horizontal_list',
+        'register_screen',
+    ]),
   }
 ];
 
