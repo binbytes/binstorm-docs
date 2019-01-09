@@ -1,6 +1,6 @@
 module.exports = {
   title: 'BinStorm',
-  description: 'Supercharge your style with BinStorm',
+  description: 'Supercharge your React Native application style with BinStorm.',
   ga: 'UA-131681474-1',
   serviceWorker: true,
 
