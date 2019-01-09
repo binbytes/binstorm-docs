@@ -47,10 +47,10 @@ module.exports = {
       updatePopup: true
     },
 
-    algolia: {
-      apiKey: '47c7b640b3f8c5351d015f51569fa9fc',
-      indexName: 'docs-binstorm'
-    },
+    // algolia: {
+    //   apiKey: '47c7b640b3f8c5351d015f51569fa9fc',
+    //   indexName: 'docs-binstorm'
+    // },
 
     nav: [
       {
